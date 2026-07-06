@@ -1,7 +1,7 @@
 h1 {
   text-align: center;
   font-family: "Bodoni Moda";
-  font-size: xx-large
+  font-size: 100px
 }
 
 a {
@@ -13,7 +13,7 @@ a {
 a:link, a:visited {
   background-color: #edb4bf;
   color: white;
-  padding: 15px 25px;
+  padding: 30px 40px;
   text-decoration: none;
   display: inline-block;
 }
